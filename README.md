@@ -57,7 +57,7 @@ Setup environment:
 ## Business Dashboard
 *Business Dashboard* dibuat berdasarkan variabel-variabel yang memiliki pola menarik yang diketahui pada step *Data Understanding*.
 
-[Kunjungi Dashboard](https://public.tableau.com/views/DashboardAnalisisDropoutdanKinerjaMahasiswa/Story1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+[Kunjungi Dashboard](https://public.tableau.com/views/DashboardAnalisisDropoutdanKinerjaMahasiswa/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Menjalankan Sistem Machine Learning
 Jelaskan cara menjalankan protoype sistem machine learning yang telah dibuat. Selain itu, sertakan juga link untuk mengakses prototype tersebut.
@@ -65,6 +65,8 @@ Jelaskan cara menjalankan protoype sistem machine learning yang telah dibuat. Se
 ```
 
 ```
+
+[Kunjungi Prototype Aplikasi](https://students-performance-dataset-analytics-azelrizkinasution.streamlit.app/)
 
 ## Conclusion
 Model *Gradient Boosting* yang saya buat berhasil memberikan prediksi yang cukup baik dalam mendeteksi mahasiswa yang kemungkinan besar akan *dropout*. Faktor terpenting dalam memonitor performa mahasiswa di Jaya Jaya Institut adalah faktor `PC1`, yang mana faktor tersebut sangat dipengaruhi oleh variabel jumlah unit kurikuler yang diambil oleh mahasiswa pada semester pertama. Hal tersebut menunjukkan bahwa mahasiswa yang mengambil lebih banyak unit kurikuler pada semester pertama cenderung memiliki performa akademik yang lebih baik dan kemungkinan lebih kecil untuk *dropout*.
