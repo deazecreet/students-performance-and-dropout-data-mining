@@ -51,7 +51,7 @@ Sumber data: [Link Dataset](https://github.com/dicodingacademy/dicoding_dataset/
 
 Setup environment:
 ```
-streamlit run submission/app.py
+
 ```
 
 ## Business Dashboard
@@ -63,7 +63,7 @@ streamlit run submission/app.py
 Jelaskan cara menjalankan protoype sistem machine learning yang telah dibuat. Selain itu, sertakan juga link untuk mengakses prototype tersebut.
 
 ```
-
+streamlit run submission/app.py
 ```
 
 [Kunjungi Prototype Aplikasi](https://students-performance-dataset-analytics-azelrizkinasution.streamlit.app/)
