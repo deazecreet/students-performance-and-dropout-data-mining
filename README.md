@@ -51,7 +51,7 @@ Sumber data: [Link Dataset](https://github.com/dicodingacademy/dicoding_dataset/
 
 Setup environment:
 ```
-
+streamlit run submission/app.py
 ```
 
 ## Business Dashboard
