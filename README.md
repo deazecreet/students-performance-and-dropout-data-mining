@@ -60,7 +60,7 @@ pip install pandas matplotlib seaborn numpy scikit-learn joblib factor-analyzer 
 [Kunjungi Dashboard](https://public.tableau.com/views/DashboardAnalisisDropoutdanKinerjaMahasiswa/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Menjalankan Sistem Machine Learning
-Untuk menjalankan *prototype* sistem *machine learning*, letakkan folder `submission` di folder proyek yang Anda, asalkan bukan open folder submission. Lalu, jalankan perintah di bawah pada Terminal.
+Untuk menjalankan *prototype* sistem *machine learning*, letakkan folder `submission` di folder proyek Anda, asalkan bukan open folder submission. Lalu, jalankan perintah di bawah pada Terminal.
 
 ```
 streamlit run submission/app.py
