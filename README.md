@@ -51,7 +51,7 @@ Sumber data: [Link Dataset](https://github.com/dicodingacademy/dicoding_dataset/
 
 Setup environment:
 ```
-
+pip install pandas matplotlib seaborn numpy scikit-learn joblib factor-analyzer streamlit
 ```
 
 ## Business Dashboard
@@ -60,7 +60,7 @@ Setup environment:
 [Kunjungi Dashboard](https://public.tableau.com/views/DashboardAnalisisDropoutdanKinerjaMahasiswa/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Menjalankan Sistem Machine Learning
-Jelaskan cara menjalankan protoype sistem machine learning yang telah dibuat. Selain itu, sertakan juga link untuk mengakses prototype tersebut.
+Untuk menjalankan *prototype* sistem *machine learning*, letakkan folder `submission` di folder proyek yang Anda, asalkan bukan open folder submission. Lalu, jalankan perintah di bawah pada Terminal.
 
 ```
 streamlit run submission/app.py
